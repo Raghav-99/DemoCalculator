@@ -1,0 +1,8 @@
+#main_container {
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 300px;
+    width: fit-content;
+    display: block;
+    margin: 20px;
+}
